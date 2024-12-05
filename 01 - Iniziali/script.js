@@ -5,7 +5,6 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 
 // Dichiara la funzione qui.
 //prendo le iniziali
-
 /**
  * 
  * @param {string} array 
